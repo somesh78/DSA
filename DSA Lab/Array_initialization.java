@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class Array_initialization {
     public static void main(String[] args){
         System.out.println("Enter the size of array");
+        @SuppressWarnings("resource")
         Scanner sc = new Scanner(System.in);
         int size = sc.nextInt();
         int []arr = new int[size];

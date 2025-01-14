@@ -1,7 +1,5 @@
 package questions;
 
-import java.util.*;
-
 public class firstandlastoccuranceoftheelement {
     public static void main(String[] args) {
         int []arr = {12,423,432,4,23,4,32,1,23,34,2,4,34,43,4};
