@@ -18,7 +18,7 @@ public class firstandlastoccuranceoftheelement {
         }
         int[] ans = {first, last};
         for (int i: ans){
-            System.out.print    (i+" ");
+            System.out.print(i+" ");
         }
     }
 }
