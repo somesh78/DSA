@@ -1,3 +1,4 @@
+package Recursion;
 public class printing_from_1ton {
     public static void func(int n){
         System.out.println(n);

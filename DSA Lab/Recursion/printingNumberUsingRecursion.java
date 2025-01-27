@@ -1,3 +1,4 @@
+package Recursion;
 public class printingNumberUsingRecursion {
     public static void rec(int a, int target){
         if (a == target)return;
