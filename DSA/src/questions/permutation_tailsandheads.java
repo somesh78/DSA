@@ -16,6 +16,5 @@ public class permutation_tailsandheads {
         int n = sc.nextInt();
         String s = new String();
         r(s, n);
-        
     }
 }
